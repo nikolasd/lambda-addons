@@ -1366,7 +1366,7 @@
 			<band>103,3</band>
 			<genre>International</genre>
 			<area>Thessaly</area>
-			<url>http://streamyourdream.org:8062/perfect</url>
+			<url>http://93.104.210.75:54987/perfect</url>
 			<base>http://www.perfectradio.gr/</base>
 		</radio>
 		<radio active="True">
@@ -1419,7 +1419,7 @@
 			<base>http://www.astrafm.gr/</base>
 		</radio>
 		<radio active="True">
-			<name>POWER 1002</name>
+			<name>POWER FM 1002</name>
 			<band>100,2</band>
 			<genre>International</genre>
 			<area>Thessaly</area>
